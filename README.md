@@ -1,3 +1,8 @@
+Welcome to the Restaurant POS System built with Laravel and Blade. It's beginner-friendly and easy to learn from. Please do not use this code for any haram purposes. As a practicing Muslim, I aim to keep my work halal and peaceful. Kindly respect this and avoid using it in ways that cause harm or wrongdoing.
+YouTube: @elevendev11
+
+Don't forget to give it a star ⭐.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
