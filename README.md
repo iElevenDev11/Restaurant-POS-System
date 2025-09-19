@@ -1,4 +1,6 @@
-Welcome to the Restaurant POS System built with Laravel and Blade. It's beginner-friendly and easy to learn from. Please do not use this code for any haram purposes. As a practicing Muslim, I aim to keep my work halal and peaceful. Kindly respect this and avoid using it in ways that cause harm or wrongdoing.
+Welcome to the Restaurant POS System built with Laravel and Blade.
+It's beginner-friendly and easy to learn from.
+Please do not use this code for any haram purposes. As a practicing Muslim, I aim to keep my work halal and peaceful. Kindly respect this and avoid using it in ways that cause harm or wrongdoing.
 YouTube: @elevendev11
 
 Don't forget to give it a star ⭐.
